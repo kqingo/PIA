@@ -1,2 +1,2 @@
 # PIA
-Repositorio para programación de inteligencia Artificial
+Esta es la descripción del repositorio para programación de inteligencia Artificial
